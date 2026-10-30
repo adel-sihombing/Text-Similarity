@@ -1,4 +1,4 @@
-# PEMTEKS - Text Similarity
+# TEXT PROCESSING - Text Similarity
 
 This project explores text similarity techniques using Python. It covers Cosine Similarity and Jaccard Similarity to measure the similarity between text documents using TF-IDF and binary text representations.
 
